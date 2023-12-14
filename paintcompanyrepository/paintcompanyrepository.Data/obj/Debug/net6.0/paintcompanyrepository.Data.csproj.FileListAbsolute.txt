@@ -1,0 +1,17 @@
+C:\Users\HP\Desktop\paintcompanyrepository\paintcompanyrepository.Data\bin\Debug\net6.0\paintcompanyrepository.Data.deps.json
+C:\Users\HP\Desktop\paintcompanyrepository\paintcompanyrepository.Data\bin\Debug\net6.0\paintcompanyrepository.Data.runtimeconfig.json
+C:\Users\HP\Desktop\paintcompanyrepository\paintcompanyrepository.Data\bin\Debug\net6.0\paintcompanyrepository.Data.dll
+C:\Users\HP\Desktop\paintcompanyrepository\paintcompanyrepository.Data\bin\Debug\net6.0\paintcompanyrepository.Data.pdb
+C:\Users\HP\Desktop\paintcompanyrepository\paintcompanyrepository.Data\bin\Debug\net6.0\paintcompanyrepository.Model.dll
+C:\Users\HP\Desktop\paintcompanyrepository\paintcompanyrepository.Data\bin\Debug\net6.0\paintcompanyrepository.Model.pdb
+C:\Users\HP\Desktop\paintcompanyrepository\paintcompanyrepository.Data\obj\Debug\net6.0\paintcompanyrepository.Data.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\paintcompanyrepository\paintcompanyrepository.Data\obj\Debug\net6.0\paintcompanyrepository.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\paintcompanyrepository\paintcompanyrepository.Data\obj\Debug\net6.0\paintcompanyrepository.Data.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\paintcompanyrepository\paintcompanyrepository.Data\obj\Debug\net6.0\paintcompanyrepository.Data.AssemblyInfo.cs
+C:\Users\HP\Desktop\paintcompanyrepository\paintcompanyrepository.Data\obj\Debug\net6.0\paintcompanyrepository.Data.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\paintcompanyrepository\paintcompanyrepository.Data\obj\Debug\net6.0\paintcompanyrepository.Data.csproj.CopyComplete
+C:\Users\HP\Desktop\paintcompanyrepository\paintcompanyrepository.Data\obj\Debug\net6.0\paintcompanyrepository.Data.dll
+C:\Users\HP\Desktop\paintcompanyrepository\paintcompanyrepository.Data\obj\Debug\net6.0\refint\paintcompanyrepository.Data.dll
+C:\Users\HP\Desktop\paintcompanyrepository\paintcompanyrepository.Data\obj\Debug\net6.0\paintcompanyrepository.Data.pdb
+C:\Users\HP\Desktop\paintcompanyrepository\paintcompanyrepository.Data\obj\Debug\net6.0\paintcompanyrepository.Data.genruntimeconfig.cache
+C:\Users\HP\Desktop\paintcompanyrepository\paintcompanyrepository.Data\obj\Debug\net6.0\ref\paintcompanyrepository.Data.dll
